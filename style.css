@@ -1,0 +1,46 @@
+.button{
+    position: absolute;
+
+    display: inline-block;
+    text-decoration: none;
+    color: #668ad8;
+
+    width: 15vw;
+    height: 15vw;
+    line-height: 15vw;
+
+    border-radius: 50%;
+    border: solid 2px #668ad8;
+    text-align: center;
+    vertical-align: middle;
+    overflow: hidden;
+    font-weight: bold;
+    transition: .4s;
+    background: white;
+    font-size: 4vw;
+}
+.button:hover {
+    background: #b3e1ff;
+}
+
+#start{
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+    margin: auto;
+}
+
+#binary{
+    font-size: 3vw;
+    left: 2vw;
+    bottom: 2vw;
+    margin: auto;
+}
+
+#block{
+    font-size: 3vw;
+    left: 20vw;
+    bottom: 2vw;
+    margin: auto;
+}
