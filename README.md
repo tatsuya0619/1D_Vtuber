@@ -1,7 +1,7 @@
 # One Dimensional Vtuber
 This is a web application to be a Virtual youtuber composed of only string.
 the below link is to demo. Note that, this also serves as my test server, and doesn't always return the same page.
-Demo: https://cameratest-433434.herokuapp.com
+Demo: https://tatsuya0619.github.io/1D_Vtuber
 
 # Development
 Because of some security policy, we have to push the programs to a server(e.g. heroku) every time we want to test them as far as I know.
