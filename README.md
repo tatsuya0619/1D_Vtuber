@@ -1,6 +1,5 @@
 # One Dimensional Vtuber
 This is a web application to be a Virtual youtuber composed of only string.
-the below link is to demo. Note that, this also serves as my test server, and doesn't always return the same page.
 Demo: https://tatsuya0619.github.io/1D_Vtuber
 
 # Development
